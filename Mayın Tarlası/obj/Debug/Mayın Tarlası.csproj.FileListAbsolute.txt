@@ -1,0 +1,19 @@
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe.config
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.pdb
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csprojResolveAssemblyReference.cache
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Form1.resources
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Properties.Resources.resources
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.GenerateResource.Cache
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.exe
+c:\users\harmony\documents\visual studio 2012\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.pdb
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe.config
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.exe
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.pdb
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.exe
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\bin\Debug\Mayın Tarlası.pdb
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csprojResolveAssemblyReference.cache
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Form1.resources
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.Properties.Resources.resources
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın Tarlası.csproj.GenerateResource.Cache
+D:\YENİ BELGELER\Projects\Mayın Tarlası\Mayın Tarlası\obj\Debug\Mayın_Tarlası.skorTablosuForm.resources
